@@ -4,8 +4,8 @@ breadcrumb-title: "[!DNL Marketo Measure] 教學課程"
 user-guide-description: 了解如何充分運用 [!DNL Adobe Marketo Measure] (先前 [!DNL Bizible]), the industry's leading B2B marketing attribution application. Watch tutorials on installation, onboarding, [!DNL Marketo Measure] 基本知識和定義。
 source-git-commit: 8d746d38a6bde1470a30706d43fa6567ebba8dff
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '240'
+ht-degree: 2%
 
 ---
 
