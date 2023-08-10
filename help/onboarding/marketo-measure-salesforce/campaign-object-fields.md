@@ -1,6 +1,6 @@
 ---
 title: 行銷活動物件欄位
-description: 本課程涵蓋Salesforce CRM Campaign物件欄位， [!DNL Marketo Measure] 使用將行銷活動和行銷活動成員對應至行銷管道。 瞭解這些促銷活動物件的功用非常重要，因為您必須在中管理和對應離線頻道 [!DNL Marketo Measure].
+description: 本課程涵蓋Salesforce CRM Campaign物件欄位， [!DNL Marketo Measure] 使用將行銷活動和行銷活動成員對應至行銷管道。 瞭解這些行銷活動物件的功用非常重要，因為您必須在中管理和對應離線頻道 [!DNL Marketo Measure].
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -8,7 +8,8 @@ last-substantial-update: 2023-01-06T00:00:00Z
 jira: KT-11690
 thumbnail: 347238.jpeg
 exl-id: 72a094c9-2659-4cb2-8c6e-7d9187ef3a03
-source-git-commit: b60003c6fa73401ca980a46ae47be00a1bb457ae
+feature: Salesforce
+source-git-commit: 2fb7fa9e72cc89f3ae867cbbc02fd62fb4b485e6
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 0%
@@ -17,6 +18,6 @@ ht-degree: 0%
 
 # 行銷活動物件欄位
 
-本課程涵蓋Salesforce CRM Campaign物件欄位， [!DNL Marketo Measure] 使用將行銷活動和行銷活動成員對應至行銷管道。 瞭解這些促銷活動物件的功用非常重要，因為您必須在中管理和對應離線頻道 [!DNL Marketo Measure].
+本課程涵蓋Salesforce CRM Campaign物件欄位， [!DNL Marketo Measure] 使用將行銷活動和行銷活動成員對應至行銷管道。 瞭解這些行銷活動物件的功用非常重要，因為您必須在中管理和對應離線頻道 [!DNL Marketo Measure].
 
 >[!VIDEO](https://video.tv.adobe.com/v/347238/?quality=12&learn=on)

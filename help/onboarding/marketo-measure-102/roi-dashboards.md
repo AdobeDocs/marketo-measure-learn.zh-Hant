@@ -8,7 +8,8 @@ last-substantial-update: 2023-01-06T00:00:00Z
 jira: KT-11683
 thumbnail: 347243.jpeg
 exl-id: d51370d5-07eb-4297-95f4-26b3a3868e8d
-source-git-commit: b60003c6fa73401ca980a46ae47be00a1bb457ae
+feature: Reporting
+source-git-commit: 2fb7fa9e72cc89f3ae867cbbc02fd62fb4b485e6
 workflow-type: tm+mt
 source-wordcount: '28'
 ht-degree: 0%
