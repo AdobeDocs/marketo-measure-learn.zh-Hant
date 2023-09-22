@@ -9,9 +9,9 @@ jira: KT-11699
 thumbnail: 347177.jpeg
 exl-id: f81e8c52-85e0-4e2a-8f0f-ba0c00fc9251
 feature: CRM Objects
-source-git-commit: 2fb7fa9e72cc89f3ae867cbbc02fd62fb4b485e6
+source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
-source-wordcount: '38'
+source-wordcount: '40'
 ht-degree: 0%
 
 ---
@@ -20,4 +20,4 @@ ht-degree: 0%
 
 取得操作方式概觀 [!DNL Marketo Measure] 使用各種輸入資料來收集和處理資料，以提供歸因資料。
 
->[!VIDEO](https://video.tv.adobe.com/v/347177/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347177/?learn=on){transcript=true}

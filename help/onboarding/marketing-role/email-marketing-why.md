@@ -9,9 +9,9 @@ jira: KT-11676
 thumbnail: 347167.jpeg
 exl-id: bc1b44cb-8fdc-4c7a-a06a-dc7f7b2713f0
 feature: Fundamentals
-source-git-commit: 2fb7fa9e72cc89f3ae867cbbc02fd62fb4b485e6
+source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
-source-wordcount: '30'
+source-wordcount: '32'
 ht-degree: 0%
 
 ---
@@ -20,4 +20,4 @@ ht-degree: 0%
 
 本課程摘要 [!DNL Marketo Measure]的主要功能及電子郵件行銷人員的價值。
 
->[!VIDEO](https://video.tv.adobe.com/v/347167/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347167/?learn=on){transcript=true}

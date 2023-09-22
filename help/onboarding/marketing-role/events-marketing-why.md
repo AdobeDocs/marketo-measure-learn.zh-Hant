@@ -9,9 +9,9 @@ jira: KT-11674
 thumbnail: 347178.jpeg
 exl-id: 713014ed-257c-44f3-a406-bc40e953fe88
 feature: Fundamentals
-source-git-commit: 2fb7fa9e72cc89f3ae867cbbc02fd62fb4b485e6
+source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
-source-wordcount: '32'
+source-wordcount: '34'
 ht-degree: 0%
 
 ---
@@ -20,4 +20,4 @@ ht-degree: 0%
 
 本課程摘要 [!DNL Marketo Measure]的主要功能及活動行銷團隊的價值。
 
->[!VIDEO](https://video.tv.adobe.com/v/347178/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347178/?learn=on){transcript=true}

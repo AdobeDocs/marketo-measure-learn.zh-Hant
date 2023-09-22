@@ -9,9 +9,9 @@ jira: KT-11695
 thumbnail: 347227.jpeg
 exl-id: 7b6ca1ea-9cfe-4b3a-b4a0-a150cd7af0eb
 feature: Attribution
-source-git-commit: 2fb7fa9e72cc89f3ae867cbbc02fd62fb4b485e6
+source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
-source-wordcount: '28'
+source-wordcount: '30'
 ht-degree: 0%
 
 ---
@@ -20,4 +20,4 @@ ht-degree: 0%
 
 本影片提供對Lead Creation Model的深入說明。
 
->[!VIDEO](https://video.tv.adobe.com/v/347227/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347227/?learn=on){transcript=true}

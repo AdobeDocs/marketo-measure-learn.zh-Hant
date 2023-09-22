@@ -9,9 +9,9 @@ jira: KT-11683
 thumbnail: 347243.jpeg
 exl-id: d51370d5-07eb-4297-95f4-26b3a3868e8d
 feature: Reporting
-source-git-commit: 2fb7fa9e72cc89f3ae867cbbc02fd62fb4b485e6
+source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
-source-wordcount: '28'
+source-wordcount: '30'
 ht-degree: 0%
 
 ---
@@ -20,4 +20,4 @@ ht-degree: 0%
 
 本課程提供中可用之可設定儀表板的概觀 [!DNL Marketo Measure].
 
->[!VIDEO](https://video.tv.adobe.com/v/347243/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347243/?learn=on){transcript=true}

@@ -9,9 +9,9 @@ jira: KT-11692
 thumbnail: 347250.jpeg
 exl-id: d1412325-8e98-435c-a6d4-1d7b77528afc
 feature: Channels
-source-git-commit: 2fb7fa9e72cc89f3ae867cbbc02fd62fb4b485e6
+source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
-source-wordcount: '34'
+source-wordcount: '36'
 ht-degree: 0%
 
 ---
@@ -20,4 +20,4 @@ ht-degree: 0%
 
 本課程涵蓋如何同步Salesforce CRM Campaigns與 [!DNL Marketo Measure]  — 個別或大量。
 
->[!VIDEO](https://video.tv.adobe.com/v/347250/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347250/?learn=on){transcript=true}

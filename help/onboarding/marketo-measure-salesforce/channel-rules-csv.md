@@ -9,9 +9,9 @@ jira: KT-11689
 thumbnail: 347237.jpeg
 exl-id: 65a25371-3b3d-4798-aa83-79235491f132
 feature: Salesforce, Channels
-source-git-commit: 00955614c945822dc1889fb22db17b5f51a8f659
+source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
-source-wordcount: '40'
+source-wordcount: '42'
 ht-degree: 0%
 
 ---
@@ -20,4 +20,4 @@ ht-degree: 0%
 
 本課程說明如何設定 [!DNL Marketo Measure] 使用CSV檔案的管道規則。
 
->[!VIDEO](https://video.tv.adobe.com/v/347237/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347237/?learn=on){transcript=true}

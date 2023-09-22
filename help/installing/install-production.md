@@ -9,9 +9,9 @@ jira: KT-11823
 thumbnail: 347185.jpeg
 exl-id: c868532d-b6f9-4236-b431-d614189a9749
 feature: Installation
-source-git-commit: 2fb7fa9e72cc89f3ae867cbbc02fd62fb4b485e6
+source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
-source-wordcount: '20'
+source-wordcount: '22'
 ht-degree: 0%
 
 ---
@@ -20,4 +20,4 @@ ht-degree: 0%
 
 瞭解如何安裝的生產執行個體 [!DNL Marketo Measure].
 
->[!VIDEO](https://video.tv.adobe.com/v/347185/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347185/?learn=on){transcript=true}

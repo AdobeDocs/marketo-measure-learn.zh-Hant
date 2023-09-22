@@ -7,9 +7,9 @@ jira: KT-11325
 thumbnail: 347212.jpeg
 exl-id: 5ab4f1c2-031b-4c51-81b1-e66cfe8321bf
 feature: Touchpoints
-source-git-commit: 2fb7fa9e72cc89f3ae867cbbc02fd62fb4b485e6
+source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
-source-wordcount: '38'
+source-wordcount: '40'
 ht-degree: 0%
 
 ---
@@ -18,4 +18,4 @@ ht-degree: 0%
 
 瞭解線上接觸點和離線接觸點之間的差異以及其建立方式。
 
->[!VIDEO](https://video.tv.adobe.com/v/347212/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347212/?learn=on){transcript=true}

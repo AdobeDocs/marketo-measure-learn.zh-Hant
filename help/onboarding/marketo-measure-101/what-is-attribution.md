@@ -9,9 +9,9 @@ jira: KT-11678
 thumbnail: 3413090.jpeg
 exl-id: fc35f6b0-9491-4438-a9a8-8026472d13b7
 feature: Attribution
-source-git-commit: 2fb7fa9e72cc89f3ae867cbbc02fd62fb4b485e6
+source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '62'
 ht-degree: 0%
 
 ---
@@ -20,4 +20,4 @@ ht-degree: 0%
 
 本課程提供歸因的定義、單一接觸及多重接觸歸因方法的比較，以及B2C與B2B企業之間的歸因比較。
 
->[!VIDEO](https://video.tv.adobe.com/v/3413090/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413090/?learn=on){transcript=true}

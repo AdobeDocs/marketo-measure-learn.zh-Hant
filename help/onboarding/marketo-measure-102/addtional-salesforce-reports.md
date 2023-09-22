@@ -9,9 +9,9 @@ jira: KT-11685
 thumbnail: 347242.jpeg
 exl-id: b6253364-0332-43a6-a17e-c15e9b2fb5f7
 feature: Salesforce, Reporting
-source-git-commit: 00955614c945822dc1889fb22db17b5f51a8f659
+source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
-source-wordcount: '24'
+source-wordcount: '26'
 ht-degree: 0%
 
 ---
@@ -20,4 +20,4 @@ ht-degree: 0%
 
 本課程涵蓋Salesforce CRM中的自訂歸因報表。
 
->[!VIDEO](https://video.tv.adobe.com/v/347242/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347242/?learn=on){transcript=true}

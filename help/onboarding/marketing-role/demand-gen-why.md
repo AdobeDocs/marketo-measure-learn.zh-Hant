@@ -9,9 +9,9 @@ jira: KT-11669
 thumbnail: 347169.jpeg
 exl-id: bd6b0789-40c7-43c1-abc0-0c2a7b1cde8c
 feature: Fundamentals
-source-git-commit: 2fb7fa9e72cc89f3ae867cbbc02fd62fb4b485e6
+source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
-source-wordcount: '42'
+source-wordcount: '44'
 ht-degree: 0%
 
 ---
@@ -20,4 +20,4 @@ ht-degree: 0%
 
 本課程摘要 [!DNL Marketo Measure]對於Demand Gen和Paid Media團隊的主要功能和價值。
 
->[!VIDEO](https://video.tv.adobe.com/v/347169/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347169/?learn=on){transcript=true}

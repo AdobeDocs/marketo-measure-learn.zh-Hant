@@ -9,9 +9,9 @@ jira: KT-11701
 thumbnail: 347228.jpeg
 exl-id: bf5e1bf8-f95f-45ec-b436-a3e7ce44c4ac
 feature: CRM Objects
-source-git-commit: 2fb7fa9e72cc89f3ae867cbbc02fd62fb4b485e6
+source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
-source-wordcount: '32'
+source-wordcount: '34'
 ht-degree: 0%
 
 ---
@@ -20,4 +20,4 @@ ht-degree: 0%
 
 觀看潛在客戶物件與 [!DNL Marketo Measure] 接觸點物件。
 
->[!VIDEO](https://video.tv.adobe.com/v/347228/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347228/?learn=on){transcript=true}
