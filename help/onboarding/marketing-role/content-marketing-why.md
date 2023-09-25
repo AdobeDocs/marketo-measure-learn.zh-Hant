@@ -9,7 +9,8 @@ jira: KT-11672
 thumbnail: 347176.jpeg
 exl-id: 84e01b4c-a489-4cb8-89f2-70a6dbebdcc8
 feature: Fundamentals
-source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
+hidefromtoc: true
+source-git-commit: 0b8e2531dec2557bf306f5af6305fe6ffb9c6c37
 workflow-type: tm+mt
 source-wordcount: '34'
 ht-degree: 0%
