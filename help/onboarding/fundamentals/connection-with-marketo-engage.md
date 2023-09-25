@@ -4,14 +4,14 @@ description: 使用Marketo Engage連線的Marketo Measure概觀
 feature-set: Marketo Measure
 feature: Integrations, Touchpoints
 role: User
-level: ??? - select one or more: Beginner, Intermediate, Experienced
+level: Beginner
 doc-type: Feature Video
-last-substantial-update: 2023-09-22
+last-substantial-update: 2023-09-22T00:00:00Z
 jira: KT-14047
 thumbnail: 3424426.jpeg
-source-git-commit: 7b8b55d5770eb22971f7d7a6656dcda18610405c
+source-git-commit: d758c24c85f141210eefbe0e3d04d43bd175080a
 workflow-type: tm+mt
-source-wordcount: 26
+source-wordcount: '26'
 ht-degree: 0%
 
 ---
