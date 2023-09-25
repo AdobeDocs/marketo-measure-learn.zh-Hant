@@ -2,9 +2,10 @@
 user-guide-title: "[!DNL Marketo Measure] 教學課程"
 breadcrumb-title: "[!DNL Marketo Measure] 教學課程"
 user-guide-description: 瞭解如何充分利用 [!DNL Adobe Marketo Measure] (先前稱為 [!DNL Bizible]), the industry's leading B2B marketing attribution application. Watch tutorials on installation, onboarding, [!DNL Marketo Measure] 基礎和定義。
-source-git-commit: 544bb31ce388b2952c98bb34622b1a6bbeca5d99
+auto-video-transcripts: true
+source-git-commit: a71b88cd45d3518569a37e416b4601a2928e816d
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '299'
 ht-degree: 2%
 
 ---
@@ -19,9 +20,21 @@ ht-degree: 2%
    + [共用和隱藏報告和儀表板](/help/installing/sharing-reports-production.md)
    + [建立 [!DNL Marketo Measure] 帳戶](/help/installing/creating-marketo-measure-account-production.md)
 + 入門{#onboarding}
+   + 最佳實務{#best-practices}
+      + [檢閱報表設定(Pt.1)](/help/onboarding/fundamentals/review-reporting-setting-pt1.md)
+      + [檢閱管道和整合設定(Pt.2)](/help/onboarding/fundamentals/channel-integration-settings.md)
+      + [CRM設定(Pt.3)](/help/onboarding/fundamentals/crm-settings.md)
+      + [銷售機會、聯絡人和機會的設定](/help/onboarding/fundamentals/leads-contacts-opps-settings.md)
+      + [線上頻道設定](/help/onboarding/fundamentals/online-channel-setup.md)
+      + [Ads連線總覽](/help/onboarding/fundamentals/ads-connection-overview.md)
+      + [SFDC安裝概述](/help/onboarding/fundamentals/sfdc-installation-overview.md)
+      + [離線管道設定](/help/onboarding/fundamentals/offline-channel-setup.md)
+      + [與Marketo Engage的連線](/help/onboarding/fundamentals/connection-with-marketo-engage.md)
+      + [活動接觸點](/help/onboarding/fundamentals/activity-touchpoints.md)
+      + [隱藏、細分和成本](/help/onboarding/fundamentals/suppression-segmentation-cost.md)
    + 行銷角色{#marketing-role}
       + [原因 [!DNL Marketo Measure] CMO和VP](/help/onboarding/marketing-role/cmo-and-vp-why.md)
-      + [使用 [!DNL Marketo Measure] CMO或VP](/help/onboarding/marketing-role/cmo-and-vp-using.md)
+      + [使用 [!DNL Marketo Measure] 作為CMO或VP](/help/onboarding/marketing-role/cmo-and-vp-using.md)
       + [原因 [!DNL Marketo Measure] 適用於需求一般媒體/付費媒體](/help/onboarding/marketing-role/demand-gen-why.md)
       + [使用 [!DNL Marketo Measure] 身為需求新人/付費媒體行銷人員](/help/onboarding/marketing-role/demand-gen-using.md)
       + [原因 [!DNL Marketo Measure] 內容行銷](/help/onboarding/marketing-role/content-marketing-why.md)
@@ -53,13 +66,16 @@ ht-degree: 2%
       + [活動歸因](/help/onboarding/fundamentals/activities-attribution.md)
 + [!DNL Marketo Measure] 探索{#marketo-measure-discover}
    + [簡介 [!DNL Marketo Measure] 探索](/help/marketo-measure-discover/introduction-to-marketo-measure-discover.md)
+   + [決定正在執行的頻道(Pt.1)](/help/marketo-measure-discover/top-of-funnel-reporting.md)
+   + [決定正在執行的頻道(Pt.2)](/help/marketo-measure-discover/determine-which-channel-is-performing.md)
+   + [探索漏斗報告(Pt.3)](/help/marketo-measure-discover/build-a-full-funnel-report-pt3.md)
 + 定義{#definitions}
    + 接觸點{#touchpoints}
       + [什麼是接觸點？](/help/definitions/touchpoints/what-is-a-touchpoint.md)
       + [里程碑接觸點](/help/definitions/touchpoints/milestone-touchpoints.md)
       + [接觸點元件](/help/definitions/touchpoints/touchpoint-components.md)
       + [線上和離線接觸點](/help/definitions/touchpoints/online-offline-touchpoints.md)
-   + 歸因{#attribution}
+   + 出處{#attribution}
       + [什麼是歸因](/help/definitions/attribution/what-is-attribution.md)
       + [歸因模型](/help/definitions/attribution/attribution-models.md)
       + [首次接觸模型](/help/definitions/attribution/first-touch-model.md)
@@ -68,26 +84,26 @@ ht-degree: 2%
       + [W形模型](/help/definitions/attribution/w-shaped-model.md)
       + [完整路徑模型](/help/definitions/attribution/full-path-model.md)
    + crm物件{#crm-objects}
-      + [概述 [!DNL Marketo Measure] 分類法](/help/definitions/crm-objects/taxonomy-overview.md)
+      + [概觀 [!DNL Marketo Measure] 分類法](/help/definitions/crm-objects/taxonomy-overview.md)
       + [crm物件](/help/definitions/crm-objects/crm-objects.md)
       + [潛在客戶物件](/help/definitions/crm-objects/lead-object.md)
       + [連絡人物件](/help/definitions/crm-objects/contact-object.md)
       + [機會物件](/help/definitions/crm-objects/opportunity-object.md)
       + [BT物件](/help/definitions/crm-objects/bt-object.md)
-      + [BAT物件](/help/definitions/crm-objects/bat-object.md)
+      + [bat物件](/help/definitions/crm-objects/bat-object.md)
       + [Marketo Measure人員](/help/definitions/crm-objects/marketo-measure-person.md)
    + UTM引數{#utm-parameters}
       + [如何 [!DNL Marketo Measure] 標籤功能](/help/definitions/utm-parameters/how-marketo-measure-tagging-works.md)
-      + [連線整合平台 [!DNL Marketo Measure]](/help/definitions/utm-parameters/connecting-integrated-platforms-with-marketo-measure.md)
-      + [UTM引數的剖析](/help/definitions/utm-parameters/anatomy-of-a-utm-parameter.md)
+      + [連線整合平台與 [!DNL Marketo Measure]](/help/definitions/utm-parameters/connecting-integrated-platforms-with-marketo-measure.md)
+      + [UTM引數剖析](/help/definitions/utm-parameters/anatomy-of-a-utm-parameter.md)
       + [UTM最佳作法](/help/definitions/utm-parameters/utm-best-practices.md)
       + [UTM引數自動標籤工具](/help/definitions/utm-parameters/utm-parameter-auto-tagging-tools.md)
       + [UTM標籤](/help/definitions/utm-parameters/utm-tagging.md)
    + 帳戶型行銷{#account-based-marketing}
-      + [[!UICONTROL Account Based Marketing] 概觀](/help/definitions/account-based-marketing/abm-overview.md)
+      + [[!UICONTROL Account Based Marketing] 概覽](/help/definitions/account-based-marketing/abm-overview.md)
       + [[!UICONTROL Accounts by Engagement Score]](/help/definitions/account-based-marketing/accounts-by-engagement-score.md)
       + [[!UICONTROL Accounts with Leads and Contacts] 報告](/help/definitions/account-based-marketing/accounts-with-leads-and-contacts.md)
       + [[!UICONTROL Touchpoints per Account] 報告](/help/definitions/account-based-marketing/touchpoints-per-account-report.md)
-   + 後麥郎舞台{#boomerang-stage}
-      + [迴音廊階段簡介](/help/definitions/boomerang-stage/introduction-to-boomerang-stages.md)
-      + [設定boomerang階段](/help/definitions/boomerang-stage/setting-up-boomerang-stages.md)
+   + 回馬朗舞台{#boomerang-stage}
+      + [迴旋鏢階段簡介](/help/definitions/boomerang-stage/introduction-to-boomerang-stages.md)
+      + [設定回力行階段](/help/definitions/boomerang-stage/setting-up-boomerang-stages.md)
