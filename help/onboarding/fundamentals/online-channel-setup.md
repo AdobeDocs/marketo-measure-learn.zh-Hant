@@ -1,6 +1,6 @@
 ---
 title: 線上頻道設定
-description: 缺少說明
+description: 瞭解線上頻道、建立頻道和線上頻道工作表。
 feature-set: Marketo Measure
 feature: Touchpoints, Tracking, UTM Parameters
 role: User
@@ -9,16 +9,16 @@ doc-type: Feature Video
 last-substantial-update: 2023-09-22T00:00:00Z
 jira: KT-14049
 thumbnail: 3424422.jpeg
-source-git-commit: 0357acb294034872b16cdc600061921789bd25a7
+exl-id: 6b7cf1da-159f-4898-adfd-883ffd7b3ddd
+source-git-commit: ddbe42250815c776ae25f660a34bbbcd47d8a480
 workflow-type: tm+mt
-source-wordcount: '12'
+source-wordcount: '30'
 ht-degree: 0%
 
 ---
 
-
 # 線上頻道設定
 
-缺少說明
+瞭解線上頻道、建立頻道和線上頻道工作表。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424422/?learn=on){transcript=true}
