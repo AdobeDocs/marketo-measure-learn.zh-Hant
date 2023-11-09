@@ -1,7 +1,7 @@
 ---
 title: 什麼是歸因
-description: 本課程提供歸因的定義、單一接觸及多重接觸歸因方法的比較，以及B2C與B2B企業之間的歸因比較。
-short-description: 本課程會比較單次接觸與多重接觸歸因方法，並比較B2C與B2B企業之間的歸因。
+description: 本課程提供歸因的定義、比較單點接觸和多點接觸歸因方法，以及比較 B2C 和 B2B 業務之間的歸因。
+short-description: 本課程比較單點接觸和多點接觸歸因方法，並比較 B2C 和 B2B 業務之間的歸因。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -13,12 +13,12 @@ feature: Attribution
 source-git-commit: 9cdab15d9c976c6160ca367dedc458fb388a2c83
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 0%
+ht-degree: 90%
 
 ---
 
 # 什麼是歸因
 
-本課程提供歸因的定義、單一接觸及多重接觸歸因方法的比較，以及B2C與B2B企業之間的歸因比較。
+本課程提供歸因的定義、比較單點接觸和多點接觸歸因方法，以及比較 B2C 和 B2B 業務之間的歸因。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3413090/?learn=on){transcript=true}
