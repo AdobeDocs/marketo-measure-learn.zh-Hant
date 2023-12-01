@@ -3,9 +3,9 @@ user-guide-title: "[!DNL Marketo Measure] 教學課程"
 breadcrumb-title: "[!DNL Marketo Measure] 教學課程"
 user-guide-description: 了解如何充分利用  [!DNL Adobe Marketo Measure]  (前身為  [!DNL Bizible])。觀看有關安裝、入門、基礎知識和定義的教學課程。
 auto-video-transcripts: true
-source-git-commit: 2ba22dad2b35ddcc106c0afa89253669b9ad5291
+source-git-commit: bde41ed650e57bf84955d8d895e44699d9b48442
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '325'
 ht-degree: 8%
 
 ---
@@ -72,6 +72,8 @@ ht-degree: 8%
    + [決定正在執行的頻道(Pt.1)](/help/marketo-measure-discover/top-of-funnel-reporting.md)
    + [決定正在執行的頻道(Pt.2)](/help/marketo-measure-discover/determine-which-channel-is-performing.md)
    + [探索漏斗報告(Pt.3)](/help/marketo-measure-discover/build-a-full-funnel-report-pt3.md)
++ [!DNL Marketo Measure] 即時聊天 {#live-chat}
+   + [行銷歸因和量度](/help/_assets/marketing attribution and metrics.md)
 + 定義{#definitions}
    + 接觸點{#touchpoints}
       + [什麼是接觸點？](/help/definitions/touchpoints/what-is-a-touchpoint.md)
