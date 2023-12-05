@@ -1,12 +1,12 @@
 ---
-user-guide-title: "[!DNL Marketo Measure] 教學課程"
-breadcrumb-title: "[!DNL Marketo Measure] 教學課程"
-user-guide-description: 了解如何充分利用  [!DNL Adobe Marketo Measure]  (前身為  [!DNL Bizible])。觀看有關安裝、入門、基礎知識和定義的教學課程。
+user-guide-title: '"[!DNL Marketo Measure] Tutorials」'
+breadcrumb-title: '"[!DNL Marketo Measure] Tutorials」'
+user-guide-description: 瞭解如何充分利用 [!DNL Adobe Marketo Measure] (先前稱為 [!DNL Bizible])。 觀看有關安裝、入門、基礎知識和定義的教學課程。
 auto-video-transcripts: true
-source-git-commit: bde41ed650e57bf84955d8d895e44699d9b48442
+source-git-commit: beed01aaeb638853c082ecedb2c5b31e5d06fbe4
 workflow-type: tm+mt
-source-wordcount: '325'
-ht-degree: 8%
+source-wordcount: '319'
+ht-degree: 3%
 
 ---
 
@@ -72,15 +72,13 @@ ht-degree: 8%
    + [決定正在執行的頻道(Pt.1)](/help/marketo-measure-discover/top-of-funnel-reporting.md)
    + [決定正在執行的頻道(Pt.2)](/help/marketo-measure-discover/determine-which-channel-is-performing.md)
    + [探索漏斗報告(Pt.3)](/help/marketo-measure-discover/build-a-full-funnel-report-pt3.md)
-+ [!DNL Marketo Measure] 即時聊天 {#live-chat}
-   + [行銷歸因和量度](/help/_assets/marketing attribution and metrics.md)
 + 定義{#definitions}
    + 接觸點{#touchpoints}
       + [什麼是接觸點？](/help/definitions/touchpoints/what-is-a-touchpoint.md)
       + [里程碑接觸點](/help/definitions/touchpoints/milestone-touchpoints.md)
       + [接觸點元件](/help/definitions/touchpoints/touchpoint-components.md)
       + [線上和離線接觸點](/help/definitions/touchpoints/online-offline-touchpoints.md)
-   + 出處{#attribution}
+   + 歸因{#attribution}
       + [什麼是歸因](/help/definitions/attribution/what-is-attribution.md)
       + [歸因模型](/help/definitions/attribution/attribution-models.md)
       + [首次接觸模型](/help/definitions/attribution/first-touch-model.md)
@@ -112,3 +110,5 @@ ht-degree: 8%
    + 回馬朗舞台{#boomerang-stage}
       + [迴旋鏢階段簡介](/help/definitions/boomerang-stage/introduction-to-boomerang-stages.md)
       + [設定回力行階段](/help/definitions/boomerang-stage/setting-up-boomerang-stages.md)
++ 宣講者談話 {#evangelist}
+   + [行銷屬性和量度](/help/evangelist-talks/attribution-and-metrics.md)
