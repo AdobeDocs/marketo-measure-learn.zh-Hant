@@ -3,9 +3,9 @@ user-guide-title: '"[!DNL Marketo Measure] Tutorials」'
 breadcrumb-title: '"[!DNL Marketo Measure] Tutorials」'
 user-guide-description: 瞭解如何充分利用 [!DNL Adobe Marketo Measure] (先前稱為 [!DNL Bizible])。 觀看有關安裝、入門、基礎知識和定義的教學課程。
 auto-video-transcripts: true
-source-git-commit: 8a8e0a492cefe2a448f38089181f675005e6a471
+source-git-commit: ed3135104704d0742337f94c9d6a1c035f0449fe
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '337'
 ht-degree: 3%
 
 ---
@@ -114,4 +114,5 @@ ht-degree: 3%
    + [行銷屬性和量度](/help/evangelist-talks/attribution-and-metrics.md)
    + [行銷歸因成熟度](/help/evangelist-talks/marketing-attribution-maturity.md)
    + [行銷歸因和資料獨立單位](/help/evangelist-talks/marketing-attribution-and-data-silos.md)
-
++ Experience League即時錄製{#experience-league-live-recordings}
+   + [Marketo Measure的全新Discover儀表板](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)
