@@ -1,6 +1,6 @@
 ---
-title: 原因 [!DNL Marketo Measure] 適用於電子郵件行銷
-description: 本課程摘要 [!DNL Marketo Measure]的主要功能及電子郵件行銷人員的價值。
+title: 為什麼電子郵件行銷需要 [!DNL Marketo Measure]
+description: 本課程針對電子郵件行銷人員總結了 [!DNL Marketo Measure]的主要功能和價值。
 role: Leader, User
 level: Beginner
 doc-type: Feature Video
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 ---
 
-# 原因 [!DNL Marketo Measure] 適用於電子郵件行銷
+# 為什麼使用[!DNL Marketo Measure]進行電子郵件行銷
 
-本課程摘要 [!DNL Marketo Measure]的主要功能及電子郵件行銷人員的價值。
+本課程針對電子郵件行銷人員總結了[!DNL Marketo Measure]的主要功能和價值。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347167/?learn=on){transcript=true}

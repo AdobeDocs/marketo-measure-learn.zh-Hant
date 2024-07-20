@@ -9,13 +9,13 @@ doc-type: Feature Video
 last-substantial-update: 2023-10-18T00:00:00Z
 jira: KT-14203
 thumbnail: 3425023.jpeg
-source-git-commit: e7224f9c11e442e16f326d94a79c13933834c6a6
+exl-id: e5609410-85da-46d8-b42c-afa7f0ab513e
+source-git-commit: af63fa0af66ad5c3a57f116fb9c02b34171fc7db
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
 
 ---
-
 
 # 探索ROI儀表板 — 精選影片
 

@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Marketo Measure接觸點物件
 
-瞭解 [!DNL Marketo Measure] 接觸點。
+瞭解[!DNL Marketo Measure]接觸點。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347219/?learn=on){transcript=true}

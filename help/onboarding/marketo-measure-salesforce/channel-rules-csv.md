@@ -1,6 +1,6 @@
 ---
 title: 使用CSV檔案設定管道規則
-description: 本課程說明如何設定 [!DNL Marketo Measure] 使用CSV檔案的管道規則。
+description: 本課程說明如何使用CSV檔案設定 [!DNL Marketo Measure] 管道規則。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # 使用CSV檔案設定管道規則
 
-本課程說明如何設定 [!DNL Marketo Measure] 使用CSV檔案的管道規則。
+本課程說明如何使用CSV檔案設定[!DNL Marketo Measure]管道規則。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347237/?learn=on){transcript=true}

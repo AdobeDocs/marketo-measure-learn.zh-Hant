@@ -1,6 +1,6 @@
 ---
 title: 修改許可權集（生產執行個體）
-description: 瞭解如何在中修改許可權集 [!DNL Marketo Measure] （生產執行個體）。
+description: 瞭解如何在 [!DNL Marketo Measure]  （生產執行個體）中修改許可權集。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # 修改許可權集（生產執行個體）
 
-瞭解如何在中修改許可權集 [!DNL Marketo Measure] （生產執行個體）。
+瞭解如何在[!DNL Marketo Measure] （生產執行個體）中修改許可權集。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347189/?learn=on){transcript=true}

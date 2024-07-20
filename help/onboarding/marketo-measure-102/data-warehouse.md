@@ -1,6 +1,6 @@
 ---
 title: Data Warehouse
-description: 本課程將說明 [!DNL Marketo Measure] Data Warehouse並提供範例，說明哪些資料可供使用，以及您可以使用所選BI工具進行報告。
+description: 本課程說明 [!DNL Marketo Measure] Data Warehouse，並提供範例，說明您可以使用所選BI工具取得哪些資料以及製作哪些報表。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Data Warehouse
 
-本課程將說明 [!DNL Marketo Measure] Data Warehouse並提供範例，說明哪些資料可供使用，以及您可以使用所選BI工具進行報告。
+本課程說明[!DNL Marketo Measure]Data Warehouse，並提供範例，說明您可以使用所選BI工具取得哪些資料以及製作哪些報表。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347235/?learn=on){transcript=true}

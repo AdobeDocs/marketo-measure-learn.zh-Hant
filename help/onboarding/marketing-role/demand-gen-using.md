@@ -1,6 +1,6 @@
 ---
-title: 使用 [!DNL Marketo Measure] 身為需求新人/付費媒體行銷人員
-description: 本課程可快速示範Demand Gen和Paid Media團隊可能如何使用 [!DNL Marketo Measure] 工作角色中的角色。
+title: 使用 [!DNL Marketo Measure] 作為Demand Gen/Paid Media行銷人員
+description: 本課程可快速示範Demand Gen和Paid Media團隊如何在其工作角色中使用 [!DNL Marketo Measure] 。
 role: Leader, User
 level: Beginner
 doc-type: Feature Video
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# 使用 [!DNL Marketo Measure] 身為需求新人/付費媒體行銷人員
+# 使用[!DNL Marketo Measure]作為Demand Gen/Paid Media行銷人員
 
-本課程可快速示範Demand Gen和Paid Media團隊可能如何使用 [!DNL Marketo Measure] 工作角色中的角色。
+本課程可快速示範Demand Gen和Paid Media團隊在其工作角色中如何使用[!DNL Marketo Measure]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347171/?learn=on){transcript=true}

@@ -1,5 +1,5 @@
 ---
-title: 簡介 [!DNL Marketo Measure] 探索
+title: ' [!DNL Marketo Measure] 探索簡介'
 description: 觀看Discover及其各種主機板的概觀。 在本課程中，瞭解多個Discover控制面板和圖磚的常見報告使用案例。
 jira: KT-11230
 thumbnail: 347206.jpeg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# 簡介 [!DNL Marketo Measure] [!UICONTROL Discover]
+# [!DNL Marketo Measure]簡介[!UICONTROL Discover]
 
-觀看高層級概觀 [!UICONTROL Discover] 及其各種主機板。 在本課程中，瞭解多個Discover控制面板和圖磚的常見報告使用案例。
+觀看[!UICONTROL Discover]及其各種主機板的概觀。 在本課程中，瞭解多個Discover控制面板和圖磚的常見報告使用案例。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347206/?learn=on){transcript=true}

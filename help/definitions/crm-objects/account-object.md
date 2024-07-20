@@ -1,6 +1,6 @@
 ---
 title: 帳戶物件
-description: 瞭解兩者之間的關係 [!DNL Marketo Measure] 和帳戶物件。
+description: 瞭解 [!DNL Marketo Measure] 與帳戶物件之間的關係。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # 帳戶物件
 
-瞭解兩者之間的關係 [!DNL Marketo Measure] 和帳戶物件。
+瞭解[!DNL Marketo Measure]與帳戶物件之間的關係。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347222/?learn=on){transcript=true}

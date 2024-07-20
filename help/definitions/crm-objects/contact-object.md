@@ -1,6 +1,6 @@
 ---
 title: 連絡人物件
-description: 觀看連絡人物件與 [!DNL Marketo Measure] 接觸點物件與 [!DNL Marketo Measure] 歸因接觸點物件。
+description: 觀看連絡人物件與 [!DNL Marketo Measure] 接觸點物件及 [!DNL Marketo Measure] 歸因接觸點物件之間的關係劃分。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # 連絡人物件
 
-此影片會劃分連絡人物件與 [!DNL Marketo Measure] 接觸點物件與 [!DNL Marketo Measure] 歸因接觸點物件。
+此影片劃分連絡人物件與[!DNL Marketo Measure]接觸點物件與[!DNL Marketo Measure]歸因接觸點物件之間的關係。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347231/?learn=on){transcript=true}

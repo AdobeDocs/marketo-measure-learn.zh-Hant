@@ -1,6 +1,6 @@
 ---
 title: 建立管道和子管道
-description: 本課程涵蓋如何在中建立和維護管道和子管道階層及名稱 [!DNL Marketo Measure].
+description: 本課程涵蓋如何在 [!DNL Marketo Measure]中建立和維護管道和子管道階層與名稱。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # 建立管道和子管道
 
-本課程涵蓋如何在中建立和維護管道和子管道階層及名稱 [!DNL Marketo Measure].
+本課程涵蓋如何在[!DNL Marketo Measure]中建立和維護管道和子管道階層與名稱。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347244/?learn=on){transcript=true}

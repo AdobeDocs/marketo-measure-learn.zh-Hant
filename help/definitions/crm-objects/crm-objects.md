@@ -1,6 +1,6 @@
 ---
 title: crm物件
-description: 觀看標準CRM物件與設定檔之間的關係劃分 [!DNL Marketo Measure] 自訂物件和欄位。
+description: 觀看標準CRM物件與 [!DNL Marketo Measure] 自訂物件與欄位之間關係的劃分。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # crm物件
 
-觀看標準CRM物件與設定檔之間的關係劃分 [!DNL Marketo Measure] 自訂物件和欄位。
+觀看標準CRM物件與[!DNL Marketo Measure]自訂物件與欄位之間關係的劃分。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347218/?learn=on){transcript=true}

@@ -1,6 +1,6 @@
 ---
-title: 概觀 [!DNL Marketo Measure] 分類法
-description: 觀看使用方法概觀 [!DNL Marketo Measure] 使用各種輸入資料來收集和處理資料，以提供歸因資料。
+title: ' [!DNL Marketo Measure] 分類法概觀'
+description: 觀看 [!DNL Marketo Measure] 如何使用各種輸入資料來收集和處理資料，以提供歸因資料的概觀。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# 概觀 [!DNL Marketo Measure] 分類法
+# [!DNL Marketo Measure]分類法概觀
 
-取得操作方式概觀 [!DNL Marketo Measure] 使用各種輸入資料來收集和處理資料，以提供歸因資料。
+取得[!DNL Marketo Measure]如何使用各種輸入來收集和處理資料以提供歸因資料的概觀。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347177/?learn=on){transcript=true}

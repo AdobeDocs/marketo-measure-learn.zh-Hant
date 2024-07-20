@@ -1,6 +1,6 @@
 ---
-title: 原因 [!DNL Marketo Measure] CMO和VP
-description: 本課程摘要 [!DNL Marketo Measure]的主要功能，以及CMO和其他資深行銷主管的價值。
+title: 為什麼是CMO和VP的 [!DNL Marketo Measure]
+description: 本課程針對CMO和其他資深行銷主管總結了 [!DNL Marketo Measure]的主要功能和價值。
 role: Leader
 level: Beginner
 doc-type: Feature Video
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 ---
 
-# 原因 [!DNL Marketo Measure] CMO和VP
+# 為什麼為CMO和VP提供[!DNL Marketo Measure]
 
-本課程摘要 [!DNL Marketo Measure]的主要功能，以及CMO和其他資深行銷主管的價值。
+本課程針對CMO和其他資深行銷主管總結了[!DNL Marketo Measure]的主要功能和價值。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347173/?learn=on){transcript=true}

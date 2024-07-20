@@ -1,6 +1,6 @@
 ---
 title: 標籤的運作方式
-description: 瞭解如何 [!DNL Marketo Measure] 標籤功能與使用整合式標籤平台有關。
+description: 瞭解 [!DNL Marketo Measure] 標籤的運作方式，以及如何使用整合式標籤平台。
 jira: KT-11233
 thumbnail: 347200.jpeg
 exl-id: 6c8c4c89-d4c2-4ed2-bed5-de06da91dc2b
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# 如何 [!DNL Marketo Measure] 標籤功能
+# [!DNL Marketo Measure]標籤的運作方式
 
-瞭解如何 [!DNL Marketo Measure] 標籤功能與使用整合式標籤平台有關。
+瞭解[!DNL Marketo Measure]標籤的運作方式以及如何使用整合式標籤平台。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347200/?learn=on){transcript=true}

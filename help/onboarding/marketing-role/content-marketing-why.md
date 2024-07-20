@@ -1,6 +1,6 @@
 ---
-title: 原因 [!DNL Marketo Measure] 針對內容行銷
-description: 本課程摘要 [!DNL Marketo Measure]的主要功能及內容行銷團隊的價值。
+title: 內容行銷的Why [!DNL Marketo Measure]
+description: 本課程總結了 [!DNL Marketo Measure]的主要功能和內容行銷團隊的價值。
 role: Leader, User
 level: Beginner
 doc-type: Feature Video
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 ---
 
-# 原因 [!DNL Marketo Measure] 針對內容行銷
+# 內容行銷的[!DNL Marketo Measure]理由
 
-本課程摘要 [!DNL Marketo Measure]的主要功能及內容行銷團隊的價值。
+本課程總結了[!DNL Marketo Measure]的主要功能和內容行銷團隊的價值。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347176/?learn=on){transcript=true}

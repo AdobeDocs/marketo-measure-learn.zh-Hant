@@ -1,6 +1,6 @@
 ---
 title: Stock Salesforce報表
-description: 本課程涵蓋隨附的預先建立標準Salesforce CRM報表和資料物件 [!DNL Marketo Measure].
+description: 本課程涵蓋標準、預先建立的Salesforce CRM報告和 [!DNL Marketo Measure]隨附的資料物件。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Stock Salesforce報表
 
-本課程涵蓋隨附的預先建立標準Salesforce CRM報表和資料物件 [!DNL Marketo Measure].
+本課程涵蓋標準、預先建立的Salesforce CRM報告和[!DNL Marketo Measure]隨附的資料物件。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347239/?learn=on){transcript=true}

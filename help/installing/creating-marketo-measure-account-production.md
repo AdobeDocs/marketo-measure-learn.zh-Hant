@@ -1,6 +1,6 @@
 ---
 title: 建立 [!DNL Marketo Measure] 帳戶
-description: 建立 [!DNL Marketo Measure] （前身為Bizible）帳戶和連線廣告平台（生產執行個體）。
+description: 建立 [!DNL Marketo Measure]  （先前稱為Bizible）帳戶並連線廣告平台（生產執行個體）。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# 建立 [!DNL Marketo Measure] 帳戶
+# 建立[!DNL Marketo Measure]帳戶
 
-瞭解如何建立 [!DNL Marketo Measure] 帳戶和用於連線廣告平台（生產執行個體）。
+瞭解如何建立[!DNL Marketo Measure]帳戶以及連線廣告平台（生產執行個體）。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347196/?learn=on){transcript=true}

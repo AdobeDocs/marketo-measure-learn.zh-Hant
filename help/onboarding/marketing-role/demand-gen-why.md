@@ -1,6 +1,6 @@
 ---
-title: 原因 [!DNL Marketo Measure] 適用於Demand Gen/付費媒體
-description: 本課程摘要 [!DNL Marketo Measure]對於Demand Gen和Paid Media團隊的主要功能和價值。
+title: 為什麼使用 [!DNL Marketo Measure] Demand Gen/付費媒體
+description: 本課程總結了 [!DNL Marketo Measure]的主要功能和價值，適用於Demand Gen和Paid Media團隊。
 role: Leader, User
 level: Beginner
 doc-type: Feature Video
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 ---
 
-# 原因 [!DNL Marketo Measure] 適用於Demand Gen/付費媒體
+# 為什麼為Demand Gen/Paid Media提供[!DNL Marketo Measure]
 
-本課程摘要 [!DNL Marketo Measure]對於Demand Gen和Paid Media團隊的主要功能和價值。
+本課程總結了[!DNL Marketo Measure]的主要功能和價值，適用於Demand Gen和Paid Media團隊。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347169/?learn=on){transcript=true}

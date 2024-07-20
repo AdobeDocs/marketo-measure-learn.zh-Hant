@@ -14,6 +14,6 @@ ht-degree: 0%
 
 # [!UICONTROL Accounts by Engagement Score]
 
-概略說明 [!UICONTROL Account by Engagement Score].  本教學課程說明哪些量度進入此分數及與其相關的報表。
+[!UICONTROL Account by Engagement Score]的高層級概觀。  本教學課程說明哪些量度進入此分數及與其相關的報表。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347248/?learn=on){transcript=true}

@@ -12,8 +12,8 @@ exl-id: fc35f6b0-9491-4438-a9a8-8026472d13b7
 feature: Attribution
 source-git-commit: 9cdab15d9c976c6160ca367dedc458fb388a2c83
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 90%
+source-wordcount: '74'
+ht-degree: 89%
 
 ---
 

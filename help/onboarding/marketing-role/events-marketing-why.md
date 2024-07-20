@@ -1,6 +1,6 @@
 ---
-title: 原因 [!DNL Marketo Measure] 適用於事件行銷
-description: 本課程摘要 [!DNL Marketo Measure]的主要功能及活動行銷團隊的價值。
+title: 為什麼 [!DNL Marketo Measure] 進行事件行銷
+description: 本課程總結了 [!DNL Marketo Measure]的主要功能和事件行銷團隊的價值。
 role: Leader, User
 level: Beginner
 doc-type: Feature Video
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 ---
 
-# 原因 [!DNL Marketo Measure] 適用於事件行銷
+# 為什麼為事件行銷設定[!DNL Marketo Measure]
 
-本課程摘要 [!DNL Marketo Measure]的主要功能及活動行銷團隊的價值。
+本課程總結了[!DNL Marketo Measure]的主要功能和事件行銷團隊的價值。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347178/?learn=on){transcript=true}

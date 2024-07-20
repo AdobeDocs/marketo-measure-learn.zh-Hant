@@ -1,6 +1,6 @@
 ---
-title: 使用 [!DNL Marketo Measure] 作為CMO或VP
-description: 本課程可快速示範CMO和其他資深行銷主管可能如何使用 [!DNL Marketo Measure] 工作角色中的角色。
+title: 使用 [!DNL Marketo Measure] 做為CMO或VP
+description: 本課程可快速示範CMO和其他資深行銷主管如何在工作角色中使用 [!DNL Marketo Measure] 。
 role: Leader
 level: Beginner
 doc-type: Feature Video
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# 使用 [!DNL Marketo Measure] 作為CMO或VP
+# 使用[!DNL Marketo Measure]做為CMO或VP
 
-本課程可快速示範CMO和其他資深行銷主管可能如何使用 [!DNL Marketo Measure] 工作角色中的角色。
+本課程可快速示範CMO和其他資深行銷主管如何在工作角色中使用[!DNL Marketo Measure]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347190/?learn=on){transcript=true}

@@ -1,6 +1,6 @@
 ---
 title: 對應離線頻道
-description: 本課程涵蓋將離線管道對應至 [!DNL Marketo Measure] Salesforce Campaign物件與campaign型別欄位。
+description: 本課程說明如何使用Salesforce Campaign物件及Campaign的「型別」欄位，將離線頻道對應至 [!DNL Marketo Measure] 。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # 對應離線頻道
 
-本課程涵蓋將離線管道對應至 [!DNL Marketo Measure] Salesforce Campaign物件與campaign型別欄位。
+本課程說明如何使用Salesforce Campaign物件及Campaign型別欄位，將離線頻道對應至[!DNL Marketo Measure]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347249/?learn=on){transcript=true}

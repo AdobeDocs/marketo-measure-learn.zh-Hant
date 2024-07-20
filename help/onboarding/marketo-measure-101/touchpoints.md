@@ -1,6 +1,6 @@
 ---
 title: 接觸點
-description: 本課程說明什麼是接觸點 [!DNL Marketo Measure], how they are created, and how they are used for attribution. [!DNL Marketo Measure] 資料物件包括 [!DNL Marketo Measure] 接觸點(BT)和 [!DNL Marketo Measure] 會引入歸因接觸點(BAT)。
+description: 本課程說明在 [!DNL Marketo Measure], how they are created, and how they are used for attribution. [!DNL Marketo Measure] 資料物件中有哪些接觸點，包括 [!DNL Marketo Measure] 接觸點(BT)和 [!DNL Marketo Measure] 歸因接觸點(BAT)。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # 接觸點
 
-本課程說明什麼是接觸點 [!DNL Marketo Measure]、如何建立變數，以及如何用於歸因。 [!DNL Marketo Measure] 資料物件包括 [!DNL Marketo Measure] 接觸點(BT)和 [!DNL Marketo Measure] 會引入歸因接觸點(BAT)。
+本課程說明在[!DNL Marketo Measure]中有哪些接觸點、如何建立這些接觸點，以及如何將這些接觸點用於歸因。 已匯入[!DNL Marketo Measure]個資料物件，包括[!DNL Marketo Measure]個接觸點(BT)和[!DNL Marketo Measure]個歸因接觸點(BAT)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347246/?learn=on){transcript=true}

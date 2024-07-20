@@ -1,6 +1,6 @@
 ---
 title: 使用 [!DNL Marketo Measure] 作為活動行銷人員
-description: 本課程會快速示範事件行銷團隊可能如何使用的方法 [!DNL Marketo Measure] 工作角色中的角色。
+description: 本課程可快速示範事件行銷團隊如何在其工作角色中使用 [!DNL Marketo Measure] 。
 role: Leader, User
 level: Beginner
 doc-type: Feature Video
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# 使用 [!DNL Marketo Measure] 作為活動行銷人員
+# 使用[!DNL Marketo Measure]作為事件行銷人員
 
-本課程會快速示範事件行銷團隊可能如何使用的方法 [!DNL Marketo Measure] 工作角色中的角色。
+本課程可快速示範事件行銷團隊如何在其工作角色中使用[!DNL Marketo Measure]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347172/?learn=on){transcript=true}

@@ -12,7 +12,7 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL Touchpoints per Account] 報告
+# [!UICONTROL Touchpoints per Account]報告
 
 本教學課程探討如何在帳戶上建立接觸點報表。
 

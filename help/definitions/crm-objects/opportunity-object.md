@@ -1,6 +1,6 @@
 ---
 title: 機會物件
-description: 觀看彼此之間的關係劃分 [!DNL Marketo Measure] 和Opportunity物件。
+description: 觀看 [!DNL Marketo Measure] 與Opportunity物件之間的關係劃分。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # 機會物件
 
-觀看彼此之間的關係劃分 [!DNL Marketo Measure] 和Opportunity物件。
+觀看[!DNL Marketo Measure]與Opportunity物件之間的關係劃分。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347223/?learn=on){transcript=true}

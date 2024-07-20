@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Marketo Measure] 個人"
+title: "[!DNL Marketo Measure]人"
 description: 瞭解 [!DNL Marketo Measure] Person物件，以及它如何在Lead和Contact物件之間建立查閱。
 role: User
 level: Beginner
@@ -12,12 +12,12 @@ feature: CRM Objects
 source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
 source-wordcount: '38'
-ht-degree: 5%
+ht-degree: 0%
 
 ---
 
-# [!DNL Marketo Measure] 個人
+# [!DNL Marketo Measure]人
 
-瞭解 [!DNL Marketo Measure] Person物件，以及它如何在Lead和Contact物件之間建立查閱。
+瞭解[!DNL Marketo Measure] Person物件，以及它如何在Lead和Contact物件之間建立查閱。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347230/?learn=on){transcript=true}

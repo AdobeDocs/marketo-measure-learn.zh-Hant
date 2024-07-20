@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Marketo Measure] 資料"
-description: 本課程概述了 [!DNL Marketo Measure] 資料來源包括 [!DNL Marketo Measure] JavaScript、API整合、UTM引數、CRM資料和手動輸入資料。
+title: "[!DNL Marketo Measure]資料"
+description: 本課程提供 [!DNL Marketo Measure] 資料來源的概觀，包括 [!DNL Marketo Measure] JavaScript、API整合、UTM引數、CRM資料和手動輸入資料。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -12,12 +12,12 @@ feature: Reporting
 source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
 source-wordcount: '46'
-ht-degree: 4%
+ht-degree: 0%
 
 ---
 
-# [!DNL Marketo Measure] 資料
+# [!DNL Marketo Measure]資料
 
-本課程概述了 [!DNL Marketo Measure] 資料來源包括 [!DNL Marketo Measure] JavaScript、API整合、UTM引數、CRM資料和手動輸入資料。
+本課程提供[!DNL Marketo Measure]資料來源的概觀，包括[!DNL Marketo Measure]個JavaScript、API整合、UTM引數、CRM資料和手動輸入資料。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347234/?learn=on){transcript=true}
