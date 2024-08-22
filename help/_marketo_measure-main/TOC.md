@@ -3,10 +3,10 @@ user-guide-title: '[!DNL Marketo Measure]個Tutorials'
 breadcrumb-title: '[!DNL Marketo Measure]個Tutorials'
 user-guide-description: 瞭解如何充分利用 [!DNL Adobe Marketo Measure]  （先前稱為 [!DNL Bizible]）。 觀看有關安裝、入門、基礎知識和定義的教學課程。
 auto-video-transcripts: true
-source-git-commit: ed3135104704d0742337f94c9d6a1c035f0449fe
+source-git-commit: 36abe0beb0b228bf90cf22fbb0ae14c7a6277a21
 workflow-type: tm+mt
-source-wordcount: '337'
-ht-degree: 3%
+source-wordcount: '347'
+ht-degree: 4%
 
 ---
 
@@ -43,13 +43,13 @@ ht-degree: 3%
       + [使用 [!DNL Marketo Measure] 作為活動行銷人員](/help/onboarding/marketing-role/events-marketing-using.md)
       + [為什麼使用 [!DNL Marketo Measure] 進行電子郵件行銷](/help/onboarding/marketing-role/email-marketing-why.md)
       + [使用 [!DNL Marketo Measure] 作為電子郵件行銷人員](/help/onboarding/marketing-role/email-marketing-using.md)
-   + [!DNL Marketo Measure] 101{#marketo-measure-101}
+   + [!DNL Marketo Measure] 101 {#marketo-measure-101}
       + [什麼是歸因](/help/onboarding/marketo-measure-101/what-is-attribution.md)
       + [什麼是 [!DNL Marketo Measure]](/help/onboarding/marketo-measure-101/what-is-marketo-measure.md)
       + [Marketo Measure資料](/help/onboarding/marketo-measure-101/marketo-measure-data.md)
       + [接觸點](/help/onboarding/marketo-measure-101/touchpoints.md)
       + [歸因模型](/help/onboarding/marketo-measure-101/attribution-models.md)
-   + [!DNL Marketo Measure] 102{#marketo-measure-102}
+   + [!DNL Marketo Measure] 102 {#marketo-measure-102}
       + [ [!DNL Marketo Measure] ROI儀表板](/help/onboarding/marketo-measure-102/roi-dashboards.md)
       + [Stock Salesforce報表](/help/onboarding/marketo-measure-102/stock-salesforce-reports.md)
       + [其他Salesforce報表](/help/onboarding/marketo-measure-102/addtional-salesforce-reports.md)
@@ -102,17 +102,20 @@ ht-degree: 3%
       + [UTM最佳作法](/help/definitions/utm-parameters/utm-best-practices.md)
       + [UTM引數自動標籤工具](/help/definitions/utm-parameters/utm-parameter-auto-tagging-tools.md)
       + [UTM標籤](/help/definitions/utm-parameters/utm-tagging.md)
-   + 帳戶型行銷{#account-based-marketing}
-      + [[!UICONTROL Account Based Marketing] 概覽](/help/definitions/account-based-marketing/abm-overview.md)
+   + 以帳戶為基礎的行銷{#account-based-marketing}
+      + [[!UICONTROL Account Based Marketing] 概觀](/help/definitions/account-based-marketing/abm-overview.md)
       + [[!UICONTROL Accounts by Engagement Score]](/help/definitions/account-based-marketing/accounts-by-engagement-score.md)
       + [[!UICONTROL Accounts with Leads and Contacts]報告](/help/definitions/account-based-marketing/accounts-with-leads-and-contacts.md)
       + [[!UICONTROL Touchpoints per Account]報告](/help/definitions/account-based-marketing/touchpoints-per-account-report.md)
-   + 回力行階段{#boomerang-stage}
+   + 迴旋曲階段{#boomerang-stage}
       + [迴旋鏢階段簡介](/help/definitions/boomerang-stage/introduction-to-boomerang-stages.md)
       + [設定回力行階段](/help/definitions/boomerang-stage/setting-up-boomerang-stages.md)
++ Marketo Measure Ultimate {#marketo-measure-ultimate}
+   + [Marketo Measure Ultimate概述](/help/marketo-measure-ultimate/overview.md)
+   + [Attribution AI概觀](/help/marketo-measure-ultimate/attribution-ai-overview.md)
 + 宣講者交談{#evangelist}
    + [行銷屬性和量度](/help/evangelist-talks/attribution-and-metrics.md)
    + [行銷歸因成熟度](/help/evangelist-talks/marketing-attribution-maturity.md)
    + [行銷歸因和資料獨立單位](/help/evangelist-talks/marketing-attribution-and-data-silos.md)
-+ Experience League即時錄製{#experience-league-live-recordings}
++ Experience League 即時錄影{#experience-league-live-recordings}
    + [Marketo Measure的新Discover儀表板](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)
