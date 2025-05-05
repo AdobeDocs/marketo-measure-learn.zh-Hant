@@ -21,4 +21,4 @@ ht-degree: 0%
 
 此報表著重於行銷漏斗的頂端至中部。 報告建立後，您就能看到哪些管道產生最多機會，因此您可以投資於這些行銷管道。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424433/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443751/?learn=on&captions=chi_hant)

@@ -21,4 +21,4 @@ ht-degree: 0%
 
 檢閱Marketo Measure中的CRM設定。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424429/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451749/?learn=on&captions=chi_hant){transcript=true}

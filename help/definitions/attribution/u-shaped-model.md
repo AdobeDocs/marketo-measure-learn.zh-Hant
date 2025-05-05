@@ -20,4 +20,4 @@ ht-degree: 0%
 
 本影片提供對U形模型的深入說明。
 
->[!VIDEO](https://video.tv.adobe.com/v/347214/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432086/?learn=on&captions=chi_hant){transcript=true}

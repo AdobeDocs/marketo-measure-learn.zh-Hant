@@ -21,4 +21,4 @@ ht-degree: 0%
 
 本影片將逐步解說漏斗報告的頂端，而報告又會顯示Marketo Measure是否正在追蹤、您是否正在產生銷售機會，以及您的頻道設定是否正確完成。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424434/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3441791/?learn=on&captions=chi_hant){transcript=true}

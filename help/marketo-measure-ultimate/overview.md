@@ -19,4 +19,4 @@ ht-degree: 0%
 
 瞭解Marketo Measure Ultimate如何讓B2B行銷人員從幾乎所有來源（包括相同型別的多個來源）收集資料，以進行徹底歸因。 這可讓B2B行銷人員存取進階分析和深入分析，以增強其行銷策略並提升業務增長。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433044/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446475/?learn=on&captions=chi_hant)

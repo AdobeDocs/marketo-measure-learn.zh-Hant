@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Marketo Measure抑制、細分和成本概觀。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424418/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453235/?learn=on&captions=chi_hant){transcript=true}

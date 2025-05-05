@@ -20,4 +20,4 @@ ht-degree: 0%
 
 取得[!DNL Marketo Measure]如何使用各種輸入來收集和處理資料以提供歸因資料的概觀。
 
->[!VIDEO](https://video.tv.adobe.com/v/347177/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432027/?learn=on&captions=chi_hant){transcript=true}

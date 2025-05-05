@@ -20,4 +20,4 @@ ht-degree: 0%
 
 本課程說明如何使用CSV檔案設定[!DNL Marketo Measure]管道規則。
 
->[!VIDEO](https://video.tv.adobe.com/v/347237/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3431555/?learn=on&captions=chi_hant){transcript=true}

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 本影片提供對Lead Creation Model的深入說明。
 
->[!VIDEO](https://video.tv.adobe.com/v/347227/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432093/?learn=on&captions=chi_hant){transcript=true}

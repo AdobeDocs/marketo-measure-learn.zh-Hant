@@ -21,4 +21,4 @@ ht-degree: 0%
 
 ROI控制面板為行銷人員提供了跨管道、子管道和行銷活動的投資回報細微檢視。 它細緻地劃分成本和收入模式，同時重點指出每個銷售機會的成本、交易和機會等量度，以確保對行銷歸因的全面瞭解。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425023/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449475/?learn=on&captions=chi_hant){transcript=true}

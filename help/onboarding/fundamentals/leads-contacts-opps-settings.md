@@ -21,4 +21,4 @@ ht-degree: 0%
 
 檢閱CRM設定銷售機會、聯絡人和機會。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424425/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453730/?learn=on&captions=chi_hant){transcript=true}

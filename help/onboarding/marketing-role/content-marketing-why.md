@@ -21,4 +21,4 @@ ht-degree: 0%
 
 本課程總結了[!DNL Marketo Measure]的主要功能和內容行銷團隊的價值。
 
->[!VIDEO](https://video.tv.adobe.com/v/347176/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3431572/?learn=on&captions=chi_hant){transcript=true}

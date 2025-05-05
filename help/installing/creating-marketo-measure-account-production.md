@@ -20,4 +20,4 @@ ht-degree: 0%
 
 瞭解如何建立[!DNL Marketo Measure]帳戶以及連線廣告平台（生產執行個體）。
 
->[!VIDEO](https://video.tv.adobe.com/v/347196/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3431534/?learn=on&captions=chi_hant){transcript=true}

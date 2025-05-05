@@ -16,4 +16,4 @@ ht-degree: 0%
 
 觀看「迴旋鏢」課程系列的第二節課程。 請先上第一堂課，然後再觀看此課程。 此討論如何在[!DNL Marketo Measure]中設定[!UICONTROL Boomerang Stages]。
 
->[!VIDEO](https://video.tv.adobe.com/v/347225/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3431595/?learn=on&captions=chi_hant){transcript=true}

@@ -16,4 +16,4 @@ ht-degree: 0%
 
 觀看「迴旋曲」課程系列的第一節課程。 瞭解如何在[!DNL Marketo Measure]中設定[!UICONTROL Boomerang Stages]。
 
->[!VIDEO](https://video.tv.adobe.com/v/347229/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3431577/?learn=on&captions=chi_hant){transcript=true}

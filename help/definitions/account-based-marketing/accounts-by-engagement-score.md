@@ -16,4 +16,4 @@ ht-degree: 0%
 
 [!UICONTROL Account by Engagement Score]的高層級概觀。  本教學課程說明哪些量度進入此分數及與其相關的報表。
 
->[!VIDEO](https://video.tv.adobe.com/v/347248/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432129/?learn=on&captions=chi_hant){transcript=true}

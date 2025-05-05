@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Marketo Measure中的報表設定概觀。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424431/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453719/?learn=on&captions=chi_hant){transcript=true}

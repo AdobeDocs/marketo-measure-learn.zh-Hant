@@ -21,4 +21,4 @@ ht-degree: 0%
 
 檢閱Marketo Measure中的活動設定。 這會檢閱Marketo Engage和CRM活動。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424420/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453224/?learn=on&captions=chi_hant){transcript=true}

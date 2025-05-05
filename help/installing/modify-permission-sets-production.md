@@ -20,4 +20,4 @@ ht-degree: 0%
 
 瞭解如何在[!DNL Marketo Measure] （生產執行個體）中修改許可權集。
 
->[!VIDEO](https://video.tv.adobe.com/v/347189/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3431524/?learn=on&captions=chi_hant){transcript=true}

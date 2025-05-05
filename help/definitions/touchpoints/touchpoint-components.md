@@ -18,4 +18,4 @@ ht-degree: 0%
 
 取得接觸點各種元件的劃分及其定義方式。 此範例會中斷BT和BAT的元件。
 
->[!VIDEO](https://video.tv.adobe.com/v/347213/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437623/?learn=on&captions=chi_hant){transcript=true}

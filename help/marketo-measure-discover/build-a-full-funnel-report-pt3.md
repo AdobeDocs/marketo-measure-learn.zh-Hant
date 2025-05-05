@@ -21,4 +21,4 @@ ht-degree: 0%
 
 在此報表中，我們會檢視完整漏斗報表。 此Discover報告將會從頭到尾追蹤參與管道，然後將機會和/或收入歸因於這些管道。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424432/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3443763/?learn=on&captions=chi_hant){transcript=true}

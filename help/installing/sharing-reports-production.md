@@ -20,4 +20,4 @@ ht-degree: 0%
 
 本課程涵蓋報表和儀表板的檢視和共用。
 
->[!VIDEO](https://video.tv.adobe.com/v/347184/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3431543/?learn=on&captions=chi_hant){transcript=true}

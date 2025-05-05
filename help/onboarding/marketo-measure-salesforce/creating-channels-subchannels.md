@@ -20,4 +20,4 @@ ht-degree: 0%
 
 本課程涵蓋如何在[!DNL Marketo Measure]中建立和維護管道和子管道階層與名稱。
 
->[!VIDEO](https://video.tv.adobe.com/v/347244/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3431561/?learn=on&captions=chi_hant){transcript=true}

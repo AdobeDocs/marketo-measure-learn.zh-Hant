@@ -21,4 +21,4 @@ ht-degree: 0%
 
 收入概觀儀表板提供從CRM衍生的總收入的深入分析，讓您更清楚瞭解行銷策略的角色。 它概略說明行銷如何影響您的整體收入，以及如何協助成功完成交易。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425025/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446364/?learn=on&captions=chi_hant){transcript=true}

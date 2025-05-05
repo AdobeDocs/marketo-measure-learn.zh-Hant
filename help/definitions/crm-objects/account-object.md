@@ -19,4 +19,4 @@ ht-degree: 0%
 
 瞭解[!DNL Marketo Measure]與帳戶物件之間的關係。
 
->[!VIDEO](https://video.tv.adobe.com/v/347222/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436091/?learn=on&captions=chi_hant){transcript=true}

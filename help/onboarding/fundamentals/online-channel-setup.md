@@ -21,4 +21,4 @@ ht-degree: 0%
 
 瞭解線上頻道、建立頻道和線上頻道工作表。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424422/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3454163/?learn=on&captions=chi_hant){transcript=true}

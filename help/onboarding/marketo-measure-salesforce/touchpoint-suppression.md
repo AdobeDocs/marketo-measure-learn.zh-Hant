@@ -20,4 +20,4 @@ ht-degree: 0%
 
 本課程涵蓋如何在Salesforce CRM中設定接觸點隱藏規則，以及您執行此動作的常見原因。
 
->[!VIDEO](https://video.tv.adobe.com/v/347188/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432016/?learn=on&captions=chi_hant){transcript=true}

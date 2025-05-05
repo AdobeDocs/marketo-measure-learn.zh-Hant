@@ -21,4 +21,4 @@ ht-degree: 0%
 
 使用Marketo Engage連線的Marketo Measure概觀
 
->[!VIDEO](https://video.tv.adobe.com/v/3424426/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449387/?learn=on&captions=chi_hant){transcript=true}
