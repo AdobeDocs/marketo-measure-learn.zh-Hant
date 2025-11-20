@@ -34,9 +34,9 @@ ht-degree: 6%
       + [活動接觸點](/help/onboarding/fundamentals/activity-touchpoints.md)
       + [隱藏、細分和成本](/help/onboarding/fundamentals/suppression-segmentation-cost.md)
    + 行銷角色 {#marketing-role}
-      + [CMO和VP為何需要 [!DNL Marketo Measure] ](/help/onboarding/marketing-role/cmo-and-vp-why.md)
+      + [CMO和VP為何需要 [!DNL Marketo Measure] &#x200B;](/help/onboarding/marketing-role/cmo-and-vp-why.md)
       + [使用 [!DNL Marketo Measure] 做為CMO或VP](/help/onboarding/marketing-role/cmo-and-vp-using.md)
-      + [為何針對需求一般媒體/付費媒體 [!DNL Marketo Measure] ](/help/onboarding/marketing-role/demand-gen-why.md)
+      + [為何針對需求一般媒體/付費媒體 [!DNL Marketo Measure] &#x200B;](/help/onboarding/marketing-role/demand-gen-why.md)
       + [使用 [!DNL Marketo Measure] 做為Demand Gen/Paid Media行銷人員](/help/onboarding/marketing-role/demand-gen-using.md)
       + [為何 [!DNL Marketo Measure] 進行內容行銷](/help/onboarding/marketing-role/content-marketing-why.md)
       + [使用 [!DNL Marketo Measure] 作為內容行銷人員](/help/onboarding/marketing-role/content-marketing-using.md)
@@ -51,7 +51,7 @@ ht-degree: 6%
       + [接觸點](/help/onboarding/marketo-measure-101/touchpoints.md)
       + [歸因模型](/help/onboarding/marketo-measure-101/attribution-models.md)
    + [!DNL Marketo Measure] 102 {#marketo-measure-102}
-      + [ [!DNL Marketo Measure] ROI儀表板](/help/onboarding/marketo-measure-102/roi-dashboards.md)
+      + [&#x200B; [!DNL Marketo Measure] ROI儀表板](/help/onboarding/marketo-measure-102/roi-dashboards.md)
       + [Stock Salesforce報表](/help/onboarding/marketo-measure-102/stock-salesforce-reports.md)
       + [其他Salesforce報表](/help/onboarding/marketo-measure-102/addtional-salesforce-reports.md)
       + [Data Warehouse](/help/onboarding/marketo-measure-102/data-warehouse.md)
@@ -66,7 +66,7 @@ ht-degree: 6%
       + [接觸點隱藏](/help/onboarding/marketo-measure-salesforce/touchpoint-suppression.md)
       + [活動歸因](/help/onboarding/fundamentals/activities-attribution.md)
 + [!DNL Marketo Measure]個探索 {#marketo-measure-discover}
-   + [ [!DNL Marketo Measure] 探索簡介](/help/marketo-measure-discover/introduction-to-marketo-measure-discover.md)
+   + [&#x200B; [!DNL Marketo Measure] 探索簡介](/help/marketo-measure-discover/introduction-to-marketo-measure-discover.md)
    + [探索總覽儀表板](/help/marketo-measure-discover/2023-discover-overview-dashboard.md)
    + [探索已歸因的收入](/help/marketo-measure-discover/2023-discover-attributed-revenue.md)
    + [探索ROI控制面板](/help/marketo-measure-discover/2023-discover-roi-dashboard.md)
@@ -88,7 +88,7 @@ ht-degree: 6%
       + [W形模型](/help/definitions/attribution/w-shaped-model.md)
       + [完整路徑模型](/help/definitions/attribution/full-path-model.md)
    + crm物件 {#crm-objects}
-      + [ [!DNL Marketo Measure] 分類法概觀](/help/definitions/crm-objects/taxonomy-overview.md)
+      + [&#x200B; [!DNL Marketo Measure] 分類法概觀](/help/definitions/crm-objects/taxonomy-overview.md)
       + [crm物件](/help/definitions/crm-objects/crm-objects.md)
       + [潛在客戶物件](/help/definitions/crm-objects/lead-object.md)
       + [連絡人物件](/help/definitions/crm-objects/contact-object.md)
@@ -97,7 +97,7 @@ ht-degree: 6%
       + [BAT物件](/help/definitions/crm-objects/bat-object.md)
       + [Marketo Measure人員](/help/definitions/crm-objects/marketo-measure-person.md)
    + UTM引數 {#utm-parameters}
-      + [ [!DNL Marketo Measure] 標籤的運作方式](/help/definitions/utm-parameters/how-marketo-measure-tagging-works.md)
+      + [&#x200B; [!DNL Marketo Measure] 標籤的運作方式](/help/definitions/utm-parameters/how-marketo-measure-tagging-works.md)
       + [連線整合平台與 [!DNL Marketo Measure]](/help/definitions/utm-parameters/connecting-integrated-platforms-with-marketo-measure.md)
       + [UTM引數剖析](/help/definitions/utm-parameters/anatomy-of-a-utm-parameter.md)
       + [UTM最佳作法](/help/definitions/utm-parameters/utm-best-practices.md)
