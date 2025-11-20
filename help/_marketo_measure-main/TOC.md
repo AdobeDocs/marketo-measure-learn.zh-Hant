@@ -15,13 +15,13 @@ ht-degree: 6%
 
 + [[!DNL Marketo Measure] 教學課程](overview.md)
 + [Marketo Measure概觀](/help/marketo-measure-overview.md)
-+ Marketo Measure安裝{#install}
++ Marketo Measure安裝 {#install}
    + [Marketo Measure安裝](/help/installing/install-production.md)
    + [修改許可權集](/help/installing/modify-permission-sets-production.md)
    + [共用和隱藏報告和儀表板](/help/installing/sharing-reports-production.md)
    + [建立 [!DNL Marketo Measure] 帳戶](/help/installing/creating-marketo-measure-account-production.md)
-+ 上線{#onboarding}
-   + 最佳實務{#best-practices}
++ 入門 {#onboarding}
+   + 最佳實務 {#best-practices}
       + [檢閱報表設定(Pt.1)](/help/onboarding/fundamentals/review-reporting-setting-pt1.md)
       + [檢閱管道和整合設定(Pt.2)](/help/onboarding/fundamentals/channel-integration-settings.md)
       + [CRM設定(Pt.3)](/help/onboarding/fundamentals/crm-settings.md)
@@ -33,10 +33,10 @@ ht-degree: 6%
       + [與Marketo Engage的連線](/help/onboarding/fundamentals/connection-with-marketo-engage.md)
       + [活動接觸點](/help/onboarding/fundamentals/activity-touchpoints.md)
       + [隱藏、細分和成本](/help/onboarding/fundamentals/suppression-segmentation-cost.md)
-   + 行銷角色{#marketing-role}
-      + [CMO和VP為何需要 [!DNL Marketo Measure] &#x200B;](/help/onboarding/marketing-role/cmo-and-vp-why.md)
+   + 行銷角色 {#marketing-role}
+      + [CMO和VP為何需要 [!DNL Marketo Measure] ](/help/onboarding/marketing-role/cmo-and-vp-why.md)
       + [使用 [!DNL Marketo Measure] 做為CMO或VP](/help/onboarding/marketing-role/cmo-and-vp-using.md)
-      + [為何針對需求一般媒體/付費媒體 [!DNL Marketo Measure] &#x200B;](/help/onboarding/marketing-role/demand-gen-why.md)
+      + [為何針對需求一般媒體/付費媒體 [!DNL Marketo Measure] ](/help/onboarding/marketing-role/demand-gen-why.md)
       + [使用 [!DNL Marketo Measure] 做為Demand Gen/Paid Media行銷人員](/help/onboarding/marketing-role/demand-gen-using.md)
       + [為何 [!DNL Marketo Measure] 進行內容行銷](/help/onboarding/marketing-role/content-marketing-why.md)
       + [使用 [!DNL Marketo Measure] 作為內容行銷人員](/help/onboarding/marketing-role/content-marketing-using.md)
@@ -51,7 +51,7 @@ ht-degree: 6%
       + [接觸點](/help/onboarding/marketo-measure-101/touchpoints.md)
       + [歸因模型](/help/onboarding/marketo-measure-101/attribution-models.md)
    + [!DNL Marketo Measure] 102 {#marketo-measure-102}
-      + [&#x200B; [!DNL Marketo Measure] ROI儀表板](/help/onboarding/marketo-measure-102/roi-dashboards.md)
+      + [ [!DNL Marketo Measure] ROI儀表板](/help/onboarding/marketo-measure-102/roi-dashboards.md)
       + [Stock Salesforce報表](/help/onboarding/marketo-measure-102/stock-salesforce-reports.md)
       + [其他Salesforce報表](/help/onboarding/marketo-measure-102/addtional-salesforce-reports.md)
       + [Data Warehouse](/help/onboarding/marketo-measure-102/data-warehouse.md)
@@ -65,21 +65,21 @@ ht-degree: 6%
    + 基礎知識{#fundamentals}
       + [接觸點隱藏](/help/onboarding/marketo-measure-salesforce/touchpoint-suppression.md)
       + [活動歸因](/help/onboarding/fundamentals/activities-attribution.md)
-+ [!DNL Marketo Measure]探索{#marketo-measure-discover}
-   + [&#x200B; [!DNL Marketo Measure] 探索簡介](/help/marketo-measure-discover/introduction-to-marketo-measure-discover.md)
++ [!DNL Marketo Measure]個探索 {#marketo-measure-discover}
+   + [ [!DNL Marketo Measure] 探索簡介](/help/marketo-measure-discover/introduction-to-marketo-measure-discover.md)
    + [探索總覽儀表板](/help/marketo-measure-discover/2023-discover-overview-dashboard.md)
    + [探索已歸因的收入](/help/marketo-measure-discover/2023-discover-attributed-revenue.md)
    + [探索ROI控制面板](/help/marketo-measure-discover/2023-discover-roi-dashboard.md)
    + [決定正在執行的頻道(Pt.1)](/help/marketo-measure-discover/top-of-funnel-reporting.md)
    + [決定正在執行的頻道(Pt.2)](/help/marketo-measure-discover/determine-which-channel-is-performing.md)
-   + [探索漏斗報告(Pt.3)](/help/marketo-measure-discover/build-a-full-funnel-report-pt3.md)
-+ 定義{#definitions}
+   + [探索Funnel報表(Pt.3)](/help/marketo-measure-discover/build-a-full-funnel-report-pt3.md)
++ 定義 {#definitions}
    + 接觸點{#touchpoints}
       + [什麼是接觸點？](/help/definitions/touchpoints/what-is-a-touchpoint.md)
       + [里程碑接觸點](/help/definitions/touchpoints/milestone-touchpoints.md)
       + [接觸點元件](/help/definitions/touchpoints/touchpoint-components.md)
       + [線上和離線接觸點](/help/definitions/touchpoints/online-offline-touchpoints.md)
-   + 歸因{#attribution}
+   + 歸因 {#attribution}
       + [什麼是歸因](/help/definitions/attribution/what-is-attribution.md)
       + [歸因模型](/help/definitions/attribution/attribution-models.md)
       + [首次接觸模型](/help/definitions/attribution/first-touch-model.md)
@@ -87,8 +87,8 @@ ht-degree: 6%
       + [U形模型](/help/definitions/attribution/u-shaped-model.md)
       + [W形模型](/help/definitions/attribution/w-shaped-model.md)
       + [完整路徑模型](/help/definitions/attribution/full-path-model.md)
-   + CRM物件{#crm-objects}
-      + [&#x200B; [!DNL Marketo Measure] 分類法概觀](/help/definitions/crm-objects/taxonomy-overview.md)
+   + crm物件 {#crm-objects}
+      + [ [!DNL Marketo Measure] 分類法概觀](/help/definitions/crm-objects/taxonomy-overview.md)
       + [crm物件](/help/definitions/crm-objects/crm-objects.md)
       + [潛在客戶物件](/help/definitions/crm-objects/lead-object.md)
       + [連絡人物件](/help/definitions/crm-objects/contact-object.md)
@@ -96,27 +96,27 @@ ht-degree: 6%
       + [BT物件](/help/definitions/crm-objects/bt-object.md)
       + [BAT物件](/help/definitions/crm-objects/bat-object.md)
       + [Marketo Measure人員](/help/definitions/crm-objects/marketo-measure-person.md)
-   + UTM引數{#utm-parameters}
-      + [&#x200B; [!DNL Marketo Measure] 標籤的運作方式](/help/definitions/utm-parameters/how-marketo-measure-tagging-works.md)
+   + UTM引數 {#utm-parameters}
+      + [ [!DNL Marketo Measure] 標籤的運作方式](/help/definitions/utm-parameters/how-marketo-measure-tagging-works.md)
       + [連線整合平台與 [!DNL Marketo Measure]](/help/definitions/utm-parameters/connecting-integrated-platforms-with-marketo-measure.md)
       + [UTM引數剖析](/help/definitions/utm-parameters/anatomy-of-a-utm-parameter.md)
       + [UTM最佳作法](/help/definitions/utm-parameters/utm-best-practices.md)
       + [UTM引數自動標籤工具](/help/definitions/utm-parameters/utm-parameter-auto-tagging-tools.md)
       + [UTM標籤](/help/definitions/utm-parameters/utm-tagging.md)
-   + 以帳戶為基礎的行銷{#account-based-marketing}
-      + [[!UICONTROL Account Based Marketing] 概觀](/help/definitions/account-based-marketing/abm-overview.md)
+   + 帳戶型行銷 {#account-based-marketing}
+      + [[!UICONTROL Account Based Marketing] 概覽](/help/definitions/account-based-marketing/abm-overview.md)
       + [[!UICONTROL Accounts by Engagement Score]](/help/definitions/account-based-marketing/accounts-by-engagement-score.md)
       + [[!UICONTROL Accounts with Leads and Contacts]報告](/help/definitions/account-based-marketing/accounts-with-leads-and-contacts.md)
       + [[!UICONTROL Touchpoints per Account]報告](/help/definitions/account-based-marketing/touchpoints-per-account-report.md)
-   + 迴旋曲階段{#boomerang-stage}
+   + 回馬朗舞台 {#boomerang-stage}
       + [迴旋鏢階段簡介](/help/definitions/boomerang-stage/introduction-to-boomerang-stages.md)
       + [設定回力行階段](/help/definitions/boomerang-stage/setting-up-boomerang-stages.md)
 + Marketo Measure Ultimate {#marketo-measure-ultimate}
-   + [Marketo Measure Ultimate概述](/help/marketo-measure-ultimate/overview.md)
-   + [Attribution AI概觀](/help/marketo-measure-ultimate/attribution-ai-overview.md)
-+ 宣講者交談{#evangelist}
+   + [Marketo Measure Ultimate概觀](/help/marketo-measure-ultimate/overview.md)
+   + [Attribution AI概述](/help/marketo-measure-ultimate/attribution-ai-overview.md)
++ 宣講者談話 {#evangelist}
    + [行銷屬性和量度](/help/evangelist-talks/attribution-and-metrics.md)
    + [行銷歸因成熟度](/help/evangelist-talks/marketing-attribution-maturity.md)
    + [行銷歸因和資料獨立單位](/help/evangelist-talks/marketing-attribution-and-data-silos.md)
-+ Experience League 即時錄影{#experience-league-live-recordings}
-   + [Marketo Measure的新Discover儀表板](https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)
++ Experience League Live錄製{#experience-league-live-recordings}
+   + [Marketo Measure的新Discover儀表板](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)
