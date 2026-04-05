@@ -20,4 +20,4 @@ ht-degree: 0%
 
 本課程涵蓋如何個別或大量同步Salesforce CRM行銷活動與[!DNL Marketo Measure]。
 
->[!VIDEO](https://video.tv.adobe.com/v/347250/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3431550/?captions=chi_hant&learn=on){transcript=true}

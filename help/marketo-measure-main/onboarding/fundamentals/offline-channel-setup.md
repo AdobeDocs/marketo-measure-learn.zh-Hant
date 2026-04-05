@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Marketo Measure Offline Channel設定指南
 
->[!VIDEO](https://video.tv.adobe.com/v/3424428/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3454624/?captions=chi_hant&learn=on){transcript=true}
