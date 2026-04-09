@@ -3,7 +3,7 @@ user-guide-title: '[!DNL Marketo Measure] 教學課程'
 breadcrumb-title: '[!DNL Marketo Measure] 教學課程'
 user-guide-description: 瞭解如何充分利用 [!DNL Adobe Marketo Measure]  （先前稱為 [!DNL Bizible]）。 觀看有關安裝、入門、基礎知識和定義的教學課程。
 auto-video-transcripts: true
-source-git-commit: 557fe2c83a26425c5c849e6260a416215ce1c7fb
+source-git-commit: 0e23db8bde1e8178bb20e9b5b8aca1dce2299f35
 workflow-type: tm+mt
 source-wordcount: '359'
 ht-degree: 7%
@@ -34,15 +34,15 @@ ht-degree: 7%
       + [活動接觸點](/help/marketo-measure-main/onboarding/fundamentals/activity-touchpoints.md)
       + [隱藏、細分和成本](/help/marketo-measure-main/onboarding/fundamentals/suppression-segmentation-cost.md)
    + 行銷角色 {#marketing-role}
-      + [CMO和VP為何需要 [!DNL Marketo Measure] &#x200B;](/help/marketo-measure-main/onboarding/marketing-role/cmo-and-vp-why.md)
+      + {hide-from-toc}[為什麼 [!DNL Marketo Measure]  （針對CMO和VP）](/help/marketo-measure-main/onboarding/marketing-role/cmo-and-vp-why.md)
       + [使用 [!DNL Marketo Measure] 做為CMO或VP](/help/marketo-measure-main/onboarding/marketing-role/cmo-and-vp-using.md)
-      + [為何針對需求一般媒體/付費媒體 [!DNL Marketo Measure] &#x200B;](/help/marketo-measure-main/onboarding/marketing-role/demand-gen-why.md)
+      + {hide-from-toc}[為什麼 [!DNL Marketo Measure] 用於需求一般媒體/付費媒體](/help/marketo-measure-main/onboarding/marketing-role/demand-gen-why.md)
       + [使用 [!DNL Marketo Measure] 做為Demand Gen/Paid Media行銷人員](/help/marketo-measure-main/onboarding/marketing-role/demand-gen-using.md)
-      + [為何 [!DNL Marketo Measure] 進行內容行銷](/help/marketo-measure-main/onboarding/marketing-role/content-marketing-why.md)
+      + {hide-from-toc}[為何 [!DNL Marketo Measure] 用於內容行銷](/help/marketo-measure-main/onboarding/marketing-role/content-marketing-why.md)
       + [使用 [!DNL Marketo Measure] 作為內容行銷人員](/help/marketo-measure-main/onboarding/marketing-role/content-marketing-using.md)
-      + [為什麼 [!DNL Marketo Measure] 進行事件行銷](/help/marketo-measure-main/onboarding/marketing-role/events-marketing-why.md)
+      + {hide-from-toc}[為什麼 [!DNL Marketo Measure] 用於事件行銷](/help/marketo-measure-main/onboarding/marketing-role/events-marketing-why.md)
       + [使用 [!DNL Marketo Measure] 作為活動行銷人員](/help/marketo-measure-main/onboarding/marketing-role/events-marketing-using.md)
-      + [為什麼使用 [!DNL Marketo Measure] 進行電子郵件行銷](/help/marketo-measure-main/onboarding/marketing-role/email-marketing-why.md)
+      + {hide-from-toc}[為什麼 [!DNL Marketo Measure] 用於電子郵件行銷](/help/marketo-measure-main/onboarding/marketing-role/email-marketing-why.md)
       + [使用 [!DNL Marketo Measure] 作為電子郵件行銷人員](/help/marketo-measure-main/onboarding/marketing-role/email-marketing-using.md)
    + [!DNL Marketo Measure] 101 {#marketo-measure-101}
       + [什麼是歸因](/help/marketo-measure-main/onboarding/marketo-measure-101/what-is-attribution.md)
