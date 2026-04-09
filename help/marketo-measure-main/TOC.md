@@ -3,7 +3,7 @@ user-guide-title: '[!DNL Marketo Measure] 教學課程'
 breadcrumb-title: '[!DNL Marketo Measure] 教學課程'
 user-guide-description: 瞭解如何充分利用 [!DNL Adobe Marketo Measure]  （先前稱為 [!DNL Bizible]）。 觀看有關安裝、入門、基礎知識和定義的教學課程。
 auto-video-transcripts: true
-source-git-commit: 557fe2c83a26425c5c849e6260a416215ce1c7fb
+source-git-commit: 0e23db8bde1e8178bb20e9b5b8aca1dce2299f35
 workflow-type: tm+mt
 source-wordcount: '359'
 ht-degree: 7%
@@ -34,15 +34,15 @@ ht-degree: 7%
       + [活動接觸點](/help/marketo-measure-main/onboarding/fundamentals/activity-touchpoints.md)
       + [隱藏、細分和成本](/help/marketo-measure-main/onboarding/fundamentals/suppression-segmentation-cost.md)
    + 行銷角色 {#marketing-role}
-      + [CMO和VP為何需要 [!DNL Marketo Measure] &#x200B;](/help/marketo-measure-main/onboarding/marketing-role/cmo-and-vp-why.md)
+      + {hide-from-toc}[為什麼 [!DNL Marketo Measure]  （針對CMO和VP）](/help/marketo-measure-main/onboarding/marketing-role/cmo-and-vp-why.md)
       + [使用 [!DNL Marketo Measure] 做為CMO或VP](/help/marketo-measure-main/onboarding/marketing-role/cmo-and-vp-using.md)
-      + [為何針對需求一般媒體/付費媒體 [!DNL Marketo Measure] &#x200B;](/help/marketo-measure-main/onboarding/marketing-role/demand-gen-why.md)
+      + {hide-from-toc}[為什麼 [!DNL Marketo Measure] 用於需求一般媒體/付費媒體](/help/marketo-measure-main/onboarding/marketing-role/demand-gen-why.md)
       + [使用 [!DNL Marketo Measure] 做為Demand Gen/Paid Media行銷人員](/help/marketo-measure-main/onboarding/marketing-role/demand-gen-using.md)
-      + [為何 [!DNL Marketo Measure] 進行內容行銷](/help/marketo-measure-main/onboarding/marketing-role/content-marketing-why.md)
+      + {hide-from-toc}[為何 [!DNL Marketo Measure] 用於內容行銷](/help/marketo-measure-main/onboarding/marketing-role/content-marketing-why.md)
       + [使用 [!DNL Marketo Measure] 作為內容行銷人員](/help/marketo-measure-main/onboarding/marketing-role/content-marketing-using.md)
-      + [為什麼 [!DNL Marketo Measure] 進行事件行銷](/help/marketo-measure-main/onboarding/marketing-role/events-marketing-why.md)
+      + {hide-from-toc}[為什麼 [!DNL Marketo Measure] 用於事件行銷](/help/marketo-measure-main/onboarding/marketing-role/events-marketing-why.md)
       + [使用 [!DNL Marketo Measure] 作為活動行銷人員](/help/marketo-measure-main/onboarding/marketing-role/events-marketing-using.md)
-      + [為什麼使用 [!DNL Marketo Measure] 進行電子郵件行銷](/help/marketo-measure-main/onboarding/marketing-role/email-marketing-why.md)
+      + {hide-from-toc}[為什麼 [!DNL Marketo Measure] 用於電子郵件行銷](/help/marketo-measure-main/onboarding/marketing-role/email-marketing-why.md)
       + [使用 [!DNL Marketo Measure] 作為電子郵件行銷人員](/help/marketo-measure-main/onboarding/marketing-role/email-marketing-using.md)
    + [!DNL Marketo Measure] 101 {#marketo-measure-101}
       + [什麼是歸因](/help/marketo-measure-main/onboarding/marketo-measure-101/what-is-attribution.md)
@@ -51,7 +51,7 @@ ht-degree: 7%
       + [接觸點](/help/marketo-measure-main/onboarding/marketo-measure-101/touchpoints.md)
       + [歸因模型](/help/marketo-measure-main/onboarding/marketo-measure-101/attribution-models.md)
    + [!DNL Marketo Measure] 102 {#marketo-measure-102}
-      + [&#x200B; [!DNL Marketo Measure] ROI儀表板](/help/marketo-measure-main/onboarding/marketo-measure-102/roi-dashboards.md)
+      + [ [!DNL Marketo Measure] ROI儀表板](/help/marketo-measure-main/onboarding/marketo-measure-102/roi-dashboards.md)
       + [Stock Salesforce報表](/help/marketo-measure-main/onboarding/marketo-measure-102/stock-salesforce-reports.md)
       + [其他Salesforce報表](/help/marketo-measure-main/onboarding/marketo-measure-102/addtional-salesforce-reports.md)
       + [Data Warehouse](/help/marketo-measure-main/onboarding/marketo-measure-102/data-warehouse.md)
@@ -66,7 +66,7 @@ ht-degree: 7%
       + [接觸點隱藏](/help/marketo-measure-main/onboarding/marketo-measure-salesforce/touchpoint-suppression.md)
       + [活動歸因](/help/marketo-measure-main/onboarding/fundamentals/activities-attribution.md)
 + [!DNL Marketo Measure]個探索 {#marketo-measure-discover}
-   + [&#x200B; [!DNL Marketo Measure] 探索簡介](/help/marketo-measure-main/marketo-measure-discover/introduction-to-marketo-measure-discover.md)
+   + [ [!DNL Marketo Measure] 探索簡介](/help/marketo-measure-main/marketo-measure-discover/introduction-to-marketo-measure-discover.md)
    + [探索總覽儀表板](/help/marketo-measure-main/marketo-measure-discover/2023-discover-overview-dashboard.md)
    + [探索已歸因的收入](/help/marketo-measure-main/marketo-measure-discover/2023-discover-attributed-revenue.md)
    + [探索ROI控制面板](/help/marketo-measure-main/marketo-measure-discover/2023-discover-roi-dashboard.md)
@@ -88,7 +88,7 @@ ht-degree: 7%
       + [W形模型](/help/marketo-measure-main/definitions/attribution/w-shaped-model.md)
       + [完整路徑模型](/help/marketo-measure-main/definitions/attribution/full-path-model.md)
    + crm物件 {#crm-objects}
-      + [&#x200B; [!DNL Marketo Measure] 分類法概觀](/help/marketo-measure-main/definitions/crm-objects/taxonomy-overview.md)
+      + [ [!DNL Marketo Measure] 分類法概觀](/help/marketo-measure-main/definitions/crm-objects/taxonomy-overview.md)
       + [crm物件](/help/marketo-measure-main/definitions/crm-objects/crm-objects.md)
       + [潛在客戶物件](/help/marketo-measure-main/definitions/crm-objects/lead-object.md)
       + [連絡人物件](/help/marketo-measure-main/definitions/crm-objects/contact-object.md)
@@ -97,7 +97,7 @@ ht-degree: 7%
       + [BAT物件](/help/marketo-measure-main/definitions/crm-objects/bat-object.md)
       + [Marketo Measure人員](/help/marketo-measure-main/definitions/crm-objects/marketo-measure-person.md)
    + UTM引數 {#utm-parameters}
-      + [&#x200B; [!DNL Marketo Measure] 標籤的運作方式](/help/marketo-measure-main/definitions/utm-parameters/how-marketo-measure-tagging-works.md)
+      + [ [!DNL Marketo Measure] 標籤的運作方式](/help/marketo-measure-main/definitions/utm-parameters/how-marketo-measure-tagging-works.md)
       + [連線整合平台與 [!DNL Marketo Measure]](/help/marketo-measure-main/definitions/utm-parameters/connecting-integrated-platforms-with-marketo-measure.md)
       + [UTM引數剖析](/help/marketo-measure-main/definitions/utm-parameters/anatomy-of-a-utm-parameter.md)
       + [UTM最佳作法](/help/marketo-measure-main/definitions/utm-parameters/utm-best-practices.md)
@@ -119,4 +119,4 @@ ht-degree: 7%
    + [行銷歸因成熟度](/help/marketo-measure-main/evangelist-talks/marketing-attribution-maturity.md)
    + [行銷歸因和資料獨立單位](/help/marketo-measure-main/evangelist-talks/marketing-attribution-and-data-silos.md)
 + Experience League Live錄製{#experience-league-live-recordings}
-   + [Marketo Measure的全新Discover儀表板](https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)
+   + [Marketo Measure的全新Discover儀表板](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)
