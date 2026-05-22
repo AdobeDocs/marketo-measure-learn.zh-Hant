@@ -11,7 +11,7 @@ product: Marketo
 type: Tutorial
 doc-type: video
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/marketo-measure-learn.en
+git-repo: https://github.com/AdobeDocs/marketo-measure-learn.zh-Hant
 index: true
 source-git-commit: 7a86d9c361270040a09b936f5d5e1f1a04128f23
 workflow-type: tm+mt
