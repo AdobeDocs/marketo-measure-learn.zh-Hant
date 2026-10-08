@@ -6,17 +6,27 @@ feature: Fundamentals
 role: User
 level: Beginner
 doc-type: Feature Video
-last-substantial-update: 2023-09-22T00:00:00Z
+last-substantial-update: 2023-09-22T00:00:00.000Z
 jira: KT-14046
 thumbnail: 3424429.jpeg
 exl-id: 5c794877-bf8b-4fd7-8653-da80dc2cc77f
-source-git-commit: 557fe2c83a26425c5c849e6260a416215ce1c7fb
+product_v2:
+  - id: e6fc4016-a972-4f36-8c30-a6a5f82ad0c8
+    internal-label: Marketo Measure
+feature_v2:
+  - id: 8210190a-677a-5286-8428-d07007b1edde
+    internal-label: Fundamentals
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 39c9852c2f3da60da121510eccbb64441a6a016c
 workflow-type: tm+mt
 source-wordcount: '24'
 ht-degree: 0%
-
 ---
-
 # CRM設定
 
 檢閱Marketo Measure中的CRM設定。
