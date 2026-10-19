@@ -3,6 +3,7 @@ cloud: Experience Cloud
 solution: Marketo Measure
 product_v2:
   - id: e6fc4016-a972-4f36-8c30-a6a5f82ad0c8
+    internal-label: "Marketo Measure"
 usetq: true
 feature-set: Marketo Measure
 landing-page-name: marketo-measure
@@ -15,11 +16,9 @@ git-repo: https://github.com/AdobeDocs/marketo-measure-learn.zh-Hant
 index: true
 source-git-commit: 7a86d9c361270040a09b936f5d5e1f1a04128f23
 workflow-type: tm+mt
-source-wordcount: 70
-ht-degree: 91%
-
+source-wordcount: '64'
+ht-degree: 100%
 ---
-
 
 # 僅限內部使用的中繼資料
 
